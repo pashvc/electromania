@@ -46,7 +46,7 @@ A modern React application showcasing AI automation solutions, built with TypeSc
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/electromania.git
+   git clone https://github.com/pashvc/electromania.git
    cd electromania
    ```
 
